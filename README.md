@@ -1,86 +1,82 @@
-# Hi, I'm **Omkar Istalkar** 👋
+# Hi, I’m **Omkar Istalkar** 👋
 
-**Software Developer • 3D Animator • Full-Stack Enthusiast**
+**Software Engineer • 3D Animator • Full-Stack Developer**
 
 ---
 
 ## 🔭 About Me
 
-- Passionate about building interactive web apps and immersive 3D experiences.  
-- Skilled in **JavaScript**, **TypeScript**, **React**, **Node.js**, **Three.js**, **Blender**, and **WebGL**.  
-- In my free time, I create 3D animated short films, visualizations, and web-based graphics for both fun and client projects.  
-- I love optimizing performance and building scalable systems — whether it's a game engine prototype or a production web app.
+- I build both **web apps** and **interactive 3D experiences** — combining my love for engineering and design.  
+- My tech stack includes **JavaScript / TypeScript**, **React**, **Node.js**, **Three.js**, **WebGL**, and **Blender**.  
+- I enjoy working on physics simulations, real-time visualizations, and optimizing graphics for web.  
+- Outside coding, I create 3D animated scenes & short films, and explore shader programming to push web graphics boundaries.
 
 ---
 
-## 💼 My Work
+## 💼 Key Projects & Work
 
-Here are a few highlights of my key projects and contributions:
+Here are some of the projects I've passionately worked on (or contributed to):
 
-| Project | Description |
+| Project | What I Did |
 |---|---|
-| **3D Animation Playground** | A web app built with **Three.js** and **React** that allows users to build and animate 3D scenes using pre-built assets. Integrated a physics engine (Cannon.js) for realistic interactions. |
-| **Interactive Data Visualizer** | A dashboard that visualizes complex datasets in 3D — using WebGL for rendering vector fields, volumetric data, and animated transitions. |
-| **Animated Short Film: *Digital Dawn*** | A 2-minute 3D animated short film made in **Blender**, featuring a sci-fi cityscape, particle effects, and lighting animations. Rendered using Eevee and optimized for web delivery. |
-| **Food Delivery System (MERN)** | Full-stack web application for food ordering. Built server APIs in **Node.js** / **Express**, and frontend in **React** with real-time order tracking. |
-| **LeetCode Solutions Repository** | A curated list of my LeetCode problem solutions (in JavaScript/TypeScript), focusing on data structures, algorithms, and system design.
+| **3D Animation Playground** | Built a web-based sandbox (using **Three.js + React**) where users can place, animate, and simulate 3D objects. Implemented physics (via Cannon.js), lighting controls, and custom material shaders. |
+| **Procedural City Generator** | A Blender + Three.js pipeline to procedurally generate city scenes: modular buildings, animated traffic, day/night cycle, and volumetric lighting. |
+| **Interactive Data Viz Dashboard** | Created a dashboard that visualizes large datasets in 3D — rendering vector fields, volumetric heatmaps, and animated transitions via **WebGL**. |
+| **Animated Short Film – “Neon Horizon”** | A 90-second sci-fi short made in **Blender**, featuring a neon cityscape, particle systems, and a camera fly-through. Rendered using Eevee and composited for web delivery. |
+| **MERN Food-Order App** | Built a full-stack web app (MongoDB, Express, React, Node) for ordering and tracking food deliveries in real time. Implemented user authentication, order tracking, and admin panel. |
+| **Algorithm & DS Library** | Maintained a personal repo of data-structure & algorithm solutions (in JS/TS), with explanations and visualizations.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ My Skills
 
 - **Languages:** JavaScript, TypeScript, Python  
-- **Frontend:** React, Redux, HTML5, CSS3, WebGL  
-- **3D & Animation:** Three.js, Blender, WebGL, GLSL  
-- **Backend:** Node.js, Express, MongoDB, REST APIs  
-- **Tools:** Git, Docker, GitHub Actions  
-- **Other:** Physics simulation (Cannon.js), Real-time data viz, Performance optimization  
+- **Frontend:** React, HTML, CSS, WebGL  
+- **3D / Graphics:** Three.js, Blender, GLSL / Shader Programming  
+- **Backend:** Node.js, Express, REST APIs, MongoDB  
+- **Tools & Frameworks:** Git, GitHub Actions, Docker  
+- **Other Areas:** Physics simulation (Cannon.js), real-time rendering, performance optimization
 
 ---
 
-## 🎮 3D Animation & Visuals
+## 🎨 3D Animation & Graphics Highlights
 
-I’ve worked on several 3D animation and visualization projects, including:
-
-- Procedural city generation — using Blender + Three.js, generating buildings, animated traffic, and day/night cycles.  
-- Particle simulations synced to music — visualizing beats and melodies via WebGL particles.  
-- Interactive WebGL scenes — users can manipulate lights, camera, and objects in real time.
-
+- **Procedural Environments:** Built modular city generation that adapts to user input (street layout, building density, style).  
+- **Custom Shaders:** Wrote GLSL shaders for water, neon-glow, and procedural noise-based materials.  
+- **Particle Systems:** Created music-synced particle animations (e.g., visualizers) that react in real time via Web Audio + WebGL.  
+- **Camera Animations:** Designed smooth camera paths / transitions in Three.js, with easing functions, depth of field, and cinematic framing.
 
 ---
 
-## 🌱 What I’m Learning
+## 🌱 What I’m Exploring
 
-- Advanced **shader programming** (GLSL) to create custom effects in WebGL  
-- **Machine learning for graphics** — generative models for procedural content  
-- Building **VR / AR experiences** using WebXR and Three.js  
+- **WebXR / AR / VR** — building immersive experiences for browsers with Three.js + WebXR.  
+- **Machine-Learning in Graphics** — exploring generative models (e.g. GANs) to auto-generate 3D assets / textures.  
+- **Advanced Shader Effects** — delving deeper into procedural shaders, ray marching, and real-time post-processing.  
+- **Real-time Collaboration Tools** — working on multi-user 3D scene editors with real-time sync.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let’s Connect
 
-- 📧 Email: `omkar.istalkar@example.com`  
-- 🔗 LinkedIn: [linkedin.com/in/omkar-istalkar](https://www.linkedin.com/)  
-- 🌐 Portfolio: [omkar-istalkar.com](https://omkar-istalkar.com) *(or your real site)*  
+- **Email:** `omkar.istalkar@example.com` *(replace with your real email)*  
+- **LinkedIn:** [linkedin.com/in/omkar-istalkar](https://www.linkedin.com/) *(update to your link)*  
+- **Portfolio / Website:** [omkar-istalkar.com](https://omkar-istalkar.com) *(if you have one)*  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkar-istalkar&show_icons=true&theme=solarized-light)
+![Omkar’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkar-istalkar&show_icons=true&theme=radical)
 
 ---
 
 ## ✨ Fun Facts
 
-- I once built a **3D sound visualizer** that changes geometry in real-time based on audio frequencies.  
-- I love sci-fi — my dream project is to animate a short film about space exploration.  
-- I started coding when I was 15, and 3D animation when I was 18.
+- I once made a mini 3D game inside Three.js where objects respond to your voice!  
+- My favorite Blender render to date was a cyberpunk alley with reflective puddles and neon signs.  
+- When I was a kid, I used to draw city skylines — now I build them in 3D.
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repos, and if you like something — drop a ⭐ 🙂  
-
-
-Check out some sample GIFs / videos (hosted in my repositories):
-
+Thank you for stopping by! Feel free to explore my repos, and if something resonates — drop a ⭐ or reach out.  
