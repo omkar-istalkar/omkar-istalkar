@@ -7,7 +7,7 @@
 
 - Full-stack developer focusing on **MERN**, **JavaScript**, **Python**, and **Node.js**  
 - Strong interest in **system design**, **interview prep**, and **real-world software projects**  
-- Solving 200+ problems on **LeetCode**, improving daily  
+- Solving 250+ problems on **LeetCode**, improving daily  
 - Completed internship at **EY** working on enterprise software systems  
 - Passionate about building clean UI and scalable backend systems  
 
@@ -66,10 +66,10 @@ A structured repo of your DSA journey in Python, Java, and C++.
 
 # 📊 GitHub Stats (Animated)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkar-istalkar&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-istalkar&theme=tokyonight" height="180" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-istalkar&theme=react-dark" />
