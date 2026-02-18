@@ -7,7 +7,7 @@
 
 - Full-stack developer focusing on **MERN**, **JavaScript**, **Python**, and **Node.js**  
 - Strong interest in **system design**, **interview prep**, and **real-world software projects**  
-- Solving 250+ problems on **LeetCode**, improving daily  
+- Solving 300+ problems on **LeetCode**, improving daily  
 - Completed internship at **EY** working on enterprise software systems  
 - Passionate about building clean UI and scalable backend systems  
 
